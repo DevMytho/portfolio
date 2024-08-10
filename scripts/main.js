@@ -87,7 +87,7 @@ async function getInputValue() {
       "<a href='https://www.linkedin.com/in/devvv1804/' target='_blank'><i class='fab fa-linkedin-in white'></i> linkedin.com/in/devvv1804</a>"
     );
     createText(
-      "<a href='https://www.instagram.com/devvv1804/' target='_blank'><i class='fab fa-instagram white'></i> instagram.com/devvv1804</a>"
+      "<a href='https://www.instagram.com/devvv1804/' target='_blank'><i class='fab fa-instagram white'></i> instagram.com/imdevvv._</a>"
     );
   } else if (value === "social") {
     trueValue(value);
